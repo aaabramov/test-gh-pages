@@ -28,8 +28,8 @@ baseurl: "/test-gh-pages"
 
 # the base hostname & protocol for your site, e.g. http://example.com
 url: "https://abrasha.xyz"
-twitter_username: @scala_ukraine
-github_username: @scala_ukraine
+twitter_username: scala_ukraine
+github_username: scala_ukraine
 
 permalink: "/posts/:categories/:year/:month/:day/:title/"
 
